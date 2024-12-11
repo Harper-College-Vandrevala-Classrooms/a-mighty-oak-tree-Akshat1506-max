@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.csc.OakTreeTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-12-01T21:31:15" hostname="Akshats-MacBook-Air.local" time="0.042">
+<testsuite name="com.csc.OakTreeTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2024-12-11T16:09:19" hostname="Akshats-MacBook-Air.local" time="0.044">
   <properties/>
-  <testcase name="testSetAndGetRoot()" classname="com.csc.OakTreeTest" time="0.029"/>
-  <testcase name="testSetLeftAndRightChildren()" classname="com.csc.OakTreeTest" time="0.005"/>
+  <testcase name="testSetAndGetRoot()" classname="com.csc.OakTreeTest" time="0.034"/>
+  <testcase name="testSetLeftAndRightChildren()" classname="com.csc.OakTreeTest" time="0.004"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
